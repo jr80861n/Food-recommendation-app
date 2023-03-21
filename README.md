@@ -1,4 +1,18 @@
 # Food-recommendation-app
+
+## App Contributors
+<!--- Pictures of team members --->
+<p align="center">
+<table>
+  <tbody>
+    <tr>
+      <td allign="center"><a href="https://github.com/jr80861n"><img src="https://avatars.githubusercontent.com/u/70288465?v=4" width="100px;" alt=""/><br/><sub><b>Joseph Rios</b></sub></a><br/></td>
+     
+     </tr>
+    </tbody>
+   </table>
+  </p>
+  
 <!--- Team Photos and information --->
 <table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto;">
   <thread>
@@ -8,7 +22,6 @@
       <th style="text-align: left; padding: 8px;">LinkedIn</th>
     </tr>
   </thread>
-  
   <tbody>
     <tr>
       <td style="text-align: left; padding: 8px;">Joseph R.</td>
