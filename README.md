@@ -7,7 +7,6 @@
   <tbody>
     <tr>
       <td allign="center"><a href="https://github.com/jr80861n"><img src="https://avatars.githubusercontent.com/u/70288465?v=4" width="100px;" alt=""/><br/><sub><b>Joseph Rios</b></sub></a><br/></td>
-     
      </tr>
     </tbody>
    </table>
