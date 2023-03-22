@@ -1,5 +1,12 @@
 # Food-recommendation-app
 
+## App Name 
+
+<span style="font-size: 2rem; font-weight: bold;"></span>
+<br>
+<img src="" alt="App Logo" class="app-logo">
+
+
 ## App Contributors
 <!--- Pictures of team members --->
 <p align="center">
@@ -34,5 +41,8 @@
       <td style="text-align: left; padding: 8px;"><a href="https://www.linkedin.com/in/daniel-basora-772988255/" style="text-decoration: none;">LinkedIn<a/></td>
     </tr>
   </tbody>
+ </table>
+ 
+ ## App Description
       
     
