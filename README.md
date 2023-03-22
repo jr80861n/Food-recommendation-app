@@ -6,7 +6,7 @@
 <table>
   <tbody>
     <tr>
-      <td allign="center"><a href="https://github.com/jr80861n"><img src="[https://avatars.githubusercontent.com/u/70288465?v=4](https://github.com/account)" width="100px;" alt=""/><br/><sub><b>Joseph Rios</b></sub></a><br/></td>
+      <td allign="center"><a href="https://github.com/jr80861n"><img src="https://avatars.githubusercontent.com/u/70288465?v=4" width="100px;" alt=""/><br/><sub><b>Joseph Rios</b></sub></a><br/></td>
        <td allign="center"><a href=""><img src="" width="100px;" alt=""/><br/><sub><b>Daniel Basura</b></sub></a><br/></td>
      </tr>
     </tbody>
