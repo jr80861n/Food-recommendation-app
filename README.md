@@ -1,8 +1,7 @@
 # Food-recommendation-app
 
 ## App Name 
-
-<span style="font-size: 2rem; font-weight: bold;"></span>
+<span style="font-size: 2rem; font-weight: bold;">MealMatch</span>
 <br>
 <img src="" alt="App Logo" class="app-logo">
 
