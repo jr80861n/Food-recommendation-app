@@ -44,6 +44,9 @@
  
  ## App Description
  
+ ## Idea Proposal
+ [Idea Proposal](https://docs.google.com/document/d/1xFHt6oFYj1d8Oppl1s-kV41i9hRwDwcw/edit)
+ 
  ## Product Backlog
  [Product Backlog](https://docs.google.com/spreadsheets/d/1-usKoFq24uASAT4xS89upL4k6owwKn2tSABlLn_LFyA/edit#gid=8)
  
