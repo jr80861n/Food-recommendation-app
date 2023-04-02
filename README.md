@@ -43,6 +43,10 @@
  </table>
  
  ## App Description
+ <p>
+  Are you tired of endlessly scrolling through countless restaurant options, unsure of what to choose? Our app is here to help.
+our app suggests personalized food options based on your preferences. Whether you're looking for a quick snack or a fancy dinner, our app will help you find the perfect restaurant and dish for you.
+You can filter by cuisine, dietary restrictions, and location to find options that suit your needs. Our app also provides detailed information on each restaurant, including menus and hours. Our app is user-friendly and intuitive; With just a few taps, you can discover new cuisines, explore different restaurants, and satisfy your cravings. Download our Food Recommendation app today and enjoy a hassle-free dining experience.</p>
  
  ## Idea Proposal
  [Idea Proposal](https://docs.google.com/document/d/1xFHt6oFYj1d8Oppl1s-kV41i9hRwDwcw/edit)
