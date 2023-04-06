@@ -61,6 +61,7 @@ You can filter by cuisine, dietary restrictions, and location to find options th
  ## Architecture 
  [Architecture]()
  
+ 
  ## Sprint 1
  
  
@@ -69,5 +70,17 @@ You can filter by cuisine, dietary restrictions, and location to find options th
  
  ## Sprint 3
  
-      
+ ##Tools & APIs     
+ <br>
+ <p align="left">
+    <a href="" alt="Discord">
+        <img src= />
+        
+    <a href="" alt="Firebase">
+        <img src= "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> </a>
+        
+    <a href="" alt="Discord">
+        <img src= />
+        
+</p
     
